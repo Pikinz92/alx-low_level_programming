@@ -12,6 +12,5 @@ int i = 0;
 for (i = 0; i < 26; i++)
 {
 _putchar(aphbet[i]);
-}
-_putchar('\n');
+};
 }
