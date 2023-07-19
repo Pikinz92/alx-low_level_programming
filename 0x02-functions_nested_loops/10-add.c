@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_last_digit - check for alphabet
+ * add - check for alphabet
  *
  *@a:  this is the argument
  *
