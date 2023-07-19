@@ -5,7 +5,7 @@
 /**
  *positive_or_negative - entry point of the program
  *
- * i: argument used
+ *@i: argument used
  */
 void positive_or_negative(int i)
 {
