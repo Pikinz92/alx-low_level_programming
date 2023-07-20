@@ -18,11 +18,12 @@ for (i = n; i <= 98; i++)
 printf("%d, ", i);
 }
 }
-else if (n >= 98)
+else
 {
 for (j = n; j >= 98; j--)
 {
 printf("%d, ", j);
 }
 }
+printf("\n");
 }
