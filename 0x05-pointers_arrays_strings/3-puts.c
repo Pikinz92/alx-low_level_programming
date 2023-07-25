@@ -10,13 +10,9 @@
 void _puts(char *str);
 void _puts(char *str)
 {
-int i = 0;
-int j = 0;
-while (*(str + i) != '\0')
-{i++; }
-for (j = 0; j <= i; j++)
+for (; *str != '\0'; str++)
 {
-_putchar (*(str + j));
+_putchar (*str);
 }
 _putchar ('\n');
 }
